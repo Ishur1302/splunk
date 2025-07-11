@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1752126818651",
+    "timestamp": "2025-07-10T05:53:38.651Z",
+    "departments": [
+      "Legal",
+      "Legal"
+    ],
+    "eventType": "file_share",
+    "description": "Unusual collaboration between Legal and Legal",
+    "severity": "high"
+  },
+  {
+    "id": "1752126822472",
+    "timestamp": "2025-07-10T05:53:42.472Z",
+    "departments": [
+      "Finance",
+      "HR"
+    ],
+    "eventType": "file_share",
+    "description": "Unusual collaboration between Finance and HR",
+    "severity": "high"
+  },
+  {
+    "id": "1752126824187",
+    "timestamp": "2025-07-10T05:53:44.187Z",
+    "departments": [
+      "Marketing",
+      "Marketing"
+    ],
+    "eventType": "file_share",
+    "description": "Unusual collaboration between Marketing and Marketing",
+    "severity": "high"
+  },
+  {
+    "id": "1752126989164",
+    "timestamp": "2025-07-10T05:56:29.164Z",
+    "departments": [
+      "Marketing",
+      "Engineering"
+    ],
+    "eventType": "file_share",
+    "description": "Unusual collaboration between Marketing and Engineering",
+    "severity": "high"
+  },
+  {
+    "id": "1752157631390",
+    "timestamp": "2025-07-10T14:27:11.390Z",
+    "departments": [
+      "Finance",
+      "Finance"
+    ],
+    "eventType": "file_share",
+    "description": "Unusual collaboration between Finance and Finance",
+    "severity": "high"
+  },
+  {
+    "id": "1752157663502",
+    "timestamp": "2025-07-10T14:27:43.502Z",
+    "departments": [
+      "Marketing",
+      "HR"
+    ],
+    "eventType": "file_share",
+    "description": "Unusual collaboration between Marketing and HR",
+    "severity": "high"
+  }
+]
